@@ -1,0 +1,136 @@
+{
+  "zones": [
+    {
+      "zone_id": "001",
+      "description": "Raised Beds",
+      "sun_exposure": "Full sun",
+      "soil_type": "Compost and potting soil",
+      "pH": 6.5,
+      "irrigated": false
+    },
+    {
+      "zone_id": "001",
+      "description": "Raised beds",
+      "sun_exposure": "Full sun",
+      "soil_type": "compost and potting soil",
+      "pH": 6.5,
+      "irrigated": false
+    },
+    {
+      "zone_id": "002",
+      "description": "West backyard",
+      "sun_exposure": "Full sun",
+      "soil_type": "clay with some compost",
+      "pH": 6.5,
+      "irrigated": false
+    },
+    {
+      "zone_id": "003",
+      "description": "East backyard near garage",
+      "sun_exposure": "Full sun",
+      "soil_type": "clay with some compost",
+      "pH": 6.5,
+      "irrigated": false
+    },
+    {
+      "zone_id": "004",
+      "description": "East backyard near house",
+      "sun_exposure": "Shade",
+      "soil_type": "clay with some compost",
+      "pH": 6.5,
+      "irrigated": false
+    },
+    {
+      "zone_id": "005",
+      "description": "Front yard in front of porch",
+      "sun_exposure": "Partial shade",
+      "soil_type": "clay with some compost",
+      "pH": 6.5,
+      "irrigated": false
+    },
+    {
+      "zone_id": "006",
+      "description": "Front yard west of porch",
+      "sun_exposure": "Shade",
+      "soil_type": "clay with some compost",
+      "pH": 6.5,
+      "irrigated": false
+    }
+  ],
+  "plants": [
+    {
+      "name": "Sweet pea",
+      "species": "",
+      "type": "Annual",
+      "location_zone": "001",
+      "sun_exposure": "Full sun",
+      "watering_needs": "Light",
+      "fertilizer_type": "10-10-10",
+      "bloom_season": "early spring and summer",
+      "last_watered": "2025-07-16",
+      "last_fertilized": "2025-06-01"
+    },
+    {
+      "name": "Sweetpea",
+      "species": "Lathyrus odoratus",
+      "type": "Annual",
+      "location_zone": "001",
+      "sun_exposure": "Full sun",
+      "watering_needs": "Medium",
+      "fertilizer_type": "10-10-10",
+      "bloom_season": "early spring and summer",
+      "last_watered": "2025-07-17",
+      "last_fertilized": "2025-06-01"
+    },
+    {
+      "name": "Snapdragons",
+      "species": "Antirrhinum majus",
+      "type": "Annual",
+      "location_zone": "001",
+      "sun_exposure": "Full sun",
+      "watering_needs": "Medium",
+      "fertilizer_type": "10-10-10",
+      "bloom_season": "summer",
+      "last_watered": "2025-07-17",
+      "last_fertilized": "2025-06-01"
+    },
+    {
+      "name": "Dahlia",
+      "species": "Asteraceae",
+      "type": "Bulb",
+      "location_zone": "001",
+      "sun_exposure": "Full sun",
+      "watering_needs": "Medium",
+      "fertilizer_type": "10-10-10",
+      "bloom_season": "summer",
+      "last_watered": "2025-07-17",
+      "last_fertilized": "2025-06-01"
+    },
+    {
+      "name": "Lobelia",
+      "species": "Campanulaceae",
+      "type": "Annual",
+      "location_zone": "001",
+      "sun_exposure": "Full sun",
+      "watering_needs": "Medium",
+      "fertilizer_type": "10-10-10",
+      "bloom_season": "summer",
+      "last_watered": "2025-07-17",
+      "last_fertilized": "2025-06-01"
+    }
+  ],
+  "observations_log": [
+    {
+      "date": "2025-07-17",
+      "plant_name": "Sweet pea",
+      "observation_type": "Watered",
+      "notes": "after some very hot 90+ days in the last two weeks, the sweet peas seemed to be dying. but they've come back with some flowers. Out of the 18 plants in the raised beds, at least 8 have flowered, for a bloom ratio of 44%. However, only one of those plants is providing multiple blooms. Today and tomorrow are expected to have highs in the 70s, which should be ideal for sweet peas. "
+    },
+    {
+      "date": "2025-07-17",
+      "plant_name": "Snapdragons",
+      "observation_type": "Watered",
+      "notes": "The yellow and pink snapdragons are doing well. they are both taller than the expected height. Next time I should stake them earlier and with taller stakes. the yellows are blooming really well. they look like popcorn."
+    }
+  ]
+}
